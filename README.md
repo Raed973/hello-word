@@ -1,3 +1,3 @@
 # hello-word
 just another repository
-Iam new here to learn GitHub
+I'am new here to learn GitHub
